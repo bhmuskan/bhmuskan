@@ -11,7 +11,10 @@ Outside the lines of code, I’m endlessly curious about the tech world. Whether
 I document my journey through clean, beginner-friendly tech blogs—because learning should feel like a warm cup of coffee.
 
 #### Let’s Connect
-I’m always open to meaningful collaborations, exciting projects, or just thoughtful conversations about tech, design, and everything in between.
+I’m always open to:
+- 🤝 Meaningful Collaborations  
+- 💡 Exciting Projects  
+- 💬 Thoughtful Conversations 
 **Feel free to reach out**—whether it’s about a project, a problem to solve, or just to say hi 💌
 
 
