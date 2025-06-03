@@ -14,7 +14,8 @@ I document my journey through clean, beginner-friendly tech blogs—because lear
 I’m always open to:
 - 🤝 Meaningful Collaborations  
 - 💡 Exciting Projects  
-- 💬 Thoughtful Conversations 
+- 💬 Thoughtful Conversations
+  
 **Feel free to reach out**—whether it’s about a project, a problem to solve, or just to say hi 💌
 
 
